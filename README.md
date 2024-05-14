@@ -1,0 +1,1 @@
+This is the famous X/O game written in python using Sockets to allow to players to connect together and play online. It also has a GUI for easy clicking on the gameboard usingTkinter. This program also keeps track of the players' wins loses and ties and announces them once players are done playing. 
